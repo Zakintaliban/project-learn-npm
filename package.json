@@ -1,0 +1,25 @@
+{
+  "name": "learn-npm",
+  "version": "0.0.1",
+  "description": "just folder to learn",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "learn",
+    "npm"
+  ],
+  "author": "Khasbullah Nukman Zakin",
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^3.0.0",
+    "commander": "^4.0.1",
+    "cowsay": "^1.4.0",
+    "inquirer": "^7.0.0",
+    "moment": "^2.24.0",
+    "pokemon": "^2.0.1",
+    "superheroes": "^3.0.0",
+    "supervillains": "^3.0.0"
+  }
+}

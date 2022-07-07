@@ -17,7 +17,7 @@
     "commander": "^4.0.1",
     "cowsay": "^1.4.0",
     "inquirer": "^7.0.0",
-    "moment": "^2.24.0",
+    "moment": "^2.29.4",
     "pokemon": "^2.0.1",
     "superheroes": "^3.0.0",
     "supervillains": "^3.0.0"
